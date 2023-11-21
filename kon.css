@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://premium.vgc.no/v2/images/bf630ece-738a-4322-a5e8-28ccd9b58b74?fit=crop&format=auto&h=524&w=1000&s=8f9fe4740179d8ec0dfcc9ca7cfaa7687d7270d6);
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    font-size: 70px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 9%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+  font-weight: 800;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 0.1px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-stroke:1px  black;
+
+
+}
+
+p b{
+    border-bottom: solid lightgrey;
+}

@@ -1,0 +1,133 @@
+
+body{
+ background-color: lightgray;
+ 
+}
+
+div{
+    
+    justify-content: flex-start;
+    text-align: center;
+    padding-top: 50px;
+   display: flex;
+   
+}
+
+
+ header h1{
+    text-align: center;
+    font-size: 70px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 9%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+h2{     
+     text-align: center;
+    font-size: 70px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 6%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+tr{
+   
+    align-self: left;
+    font-style: italic;
+    text-shadow: 7px 7px 7px burlywood ;
+    text-align: center;
+    color: grey;
+    font-size: 35px;
+    font-family: fantasy;
+    
+}
+
+
+td{
+   flex:content;
+    float:left;
+    background-color: rgba(157, 130, 130, 0.241);
+    width: 85px;
+    padding: 45px;
+    padding-top: 40px;
+    border-radius: 90px 0 90px 0 ;
+    padding-bottom: 40px;
+    border: 3px, rgba(136, 99, 99, 0);
+    font-size: x-large;
+    height: 55px;
+    text-align: center;
+    transition: background-color 5s, background-image 2s, width 50ms, height 50ms, all ease-in 0.5s;
+    transform-origin: left;
+
+}
+
+td:hover{
+    flex: content;
+    width: 200px;
+    height: 58px;
+    background-repeat:repeat;
+    background-size:  90%;
+    background-position:100%;
+    background-position-x:center;
+    background-image: url(https://nortrapp.no/wp-content/uploads/2017/05/NT_Eik-Hvitlasert-web-300x195.jpg);
+    transform: scaleX(1);
+    transition:ease-in 300ms ;
+}
+
+#container {
+    padding-top: 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 10 0;
+}
+
+#container > div {
+    flex: 1;
+    padding-top: 10px;
+    margin: 10 0;
+    
+}
+
+#para-Container {
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 0.1px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-align: center;
+  max-width: 600px; /* Optional: Set a maximum width for the paragraph */
+
+}
+
+
+#header2{
+    padding-top: 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+
+}
+#table-container {
+    flex: content;
+    float: none; /* Remove the float property */
+    display: inline-block; /* Use inline-block instead of float */
+    margin: 0 auto; /* Center the table horizontally */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 10px; /* Add border-radius for a rounded appearance */
+    transition: background-color 0,5s, width 0.5s, height 0.5s; /* Simplify transitions */
+}
+

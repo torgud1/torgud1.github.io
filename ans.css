@@ -1,0 +1,178 @@
+
+body{
+    background-color:lightgray ;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#espen h2{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 4%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+#espen p{
+    
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 0.1px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+#espen img{
+    width: 500px;
+    height: auto;
+    
+    
+    
+}
+header{
+    text-align: center;
+    font-size: 40px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 9%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+#joar img{
+    width: 500px;
+    height: auto;
+}
+#joar p{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 0.1px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+#joar h2{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 4%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+#einar img{
+    width: 500px;
+    height: auto;
+
+}
+
+#einar h2{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 4%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+}
+
+#einar p{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 0.1px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+
+}
+
+
+#karl img{
+    width: 500px;
+    height: auto;
+
+}
+
+#karl h2{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 4%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+}
+
+#karl p{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 0.1px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+
+}
+
+#tor img{
+    width: 500px;
+    height: auto;
+
+}
+
+#tor h2{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 4%;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+}
+
+#tor p{
+    text-align: center;
+    font-size: 30px;
+  font-weight: 600;
+  background-image: url(https://www.megaflis.no/globalassets/productimages/7052870173967_1.png?ref=8C172D8A0D&w=450&scale=both&mode=pad&h=450&format=jpg);
+  background-size: 0.1px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  padding-bottom: 200px;
+
+}

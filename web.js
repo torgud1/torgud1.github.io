@@ -1,6 +1,6 @@
 function action1(){
   location.href="ans.html";
-  history.back();
+  
 }
 
 function action2(){
